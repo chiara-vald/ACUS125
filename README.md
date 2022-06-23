@@ -11,7 +11,7 @@ La segunda tarea recibida en esta materia, tenía como objetivo resumir los tipo
 
 # Autores:
 Tomás Peñaloza 
-tomas.penaloza@alumnos.uach.cl
+tomas dot penaloza @ alumnos dot uach dot cl
 
 Chiara Valderrama 
-corina.valderrama@alumnos.uach.cl
+corina dot valderrama @ alumnos dot uach dot cl
