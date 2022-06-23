@@ -10,8 +10,8 @@ La segunda tarea recibida en esta materia, tenía como objetivo resumir los tipo
 
 
 # Autores:
-Tomás Peñaloza 
-tomas dot penaloza @ alumnos dot uach dot cl
+Tomás Peñaloza :
+tomas dot penaloza at alumnos dot uach dot cl
 
-Chiara Valderrama 
-corina dot valderrama @ alumnos dot uach dot cl
+Chiara Valderrama :
+corina dot valderrama at alumnos dot uach dot cl
